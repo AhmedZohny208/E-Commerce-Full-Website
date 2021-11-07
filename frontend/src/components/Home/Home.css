@@ -1,0 +1,22 @@
+#products_heading {
+  margin-top: 1.8rem;
+}
+
+/* Pagination */
+.page-item.disabled .page-link {
+  display: none;
+}
+
+.page-item.active .page-link {
+  background-color: #fa9c23 !important;
+  border-color: #fa9c23 !important;
+  color: #fff !important;
+}
+
+.page-link {
+  color: #fa9c23 !important;
+}
+
+.page-link:hover {
+  color: #fa9c23;
+}
